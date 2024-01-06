@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ArrowIndicator.qml</file>
+        <file>SpedometerStyle.qml</file>
+        <file>distance.txt</file>
+    </qresource>
+</RCC>
