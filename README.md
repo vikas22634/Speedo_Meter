@@ -6,12 +6,12 @@ C++,
 QML,
 QtQuick
 
-Autombile Dashboard Screen
+Speedometer Screen
 
 <img width="640" alt="Screenshot 2024-01-06 110212" src="https://github.com/vikas22634/Speedo_Meter/assets/75554973/47bf7d39-33bc-4f20-b3f1-aa1ec6078c09">
 
 
-<strong>with the below key  combination we can uses the Dahsboard Scrren</strong>
+<strong>with the below key  combination we can uses the speedometer Screen</strong>
 
 1. UpKey :  for speed increment
 
