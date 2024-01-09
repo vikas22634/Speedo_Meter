@@ -12,8 +12,6 @@ class EngineConfiguration : public QObject
     Q_PROPERTY(int getSpeed READ getSpeed WRITE setSpeed NOTIFY speedChanged )
     Q_PROPERTY(double getMaxEngineRPM READ getMaxEngineRPM WRITE setMaxEngineRPM NOTIFY maxEngineRPMChanged);
     Q_PROPERTY(int getCurrentGear READ getCurrentGear WRITE setCurrentGear NOTIFY currentGearChanged);
-    Q_PROPERTY(int getFuelLevel READ getFuelLevel WRITE setFuelLevel NOTIFY fuelLevelChanged);
-    Q_PROPERTY(int getTempLevel READ getTempLevel WRITE setTempLevel NOTIFY tempLevelChenged);
     Q_PROPERTY(QString getDistance READ getDistance WRITE setDistance NOTIFY distanceChanged);
 
 public:
